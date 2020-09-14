@@ -1,10 +1,9 @@
-
 package main
 
 import (
-  "fmt"
+	"fmt"
 )
 
 func main() {
-  fmt.Println("Hello, Using go modules to initialize a project..")
+	fmt.Println("Hello, Using go modules to initialize a project..")
 }
