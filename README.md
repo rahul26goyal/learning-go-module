@@ -44,6 +44,11 @@ git push origin v0.1.0
 github.com/rahul26goyal/learning-go-module v0.1.0
 ```
 
-10. Use this dependency on a different project if as required.
+10. Apply go Style: The below command will update the source code. There are other options .. `gofmt --help ` to see more options.
+```
+> gofmt -s -w .
+```
+
+11. Use this dependency on a different project if as required.
 
 Reference: https://blog.golang.org/publishing-go-modules
