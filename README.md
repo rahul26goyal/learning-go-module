@@ -45,4 +45,5 @@ github.com/rahul26goyal/learning-go-module v0.1.0
 ```
 
 10. Use this dependency on a different project if as required.
-Referance: https://blog.golang.org/publishing-go-modules
+
+Reference: https://blog.golang.org/publishing-go-modules
